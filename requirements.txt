@@ -32,7 +32,7 @@ markupsafe==1.1.1
 mistune==0.8.4
 monotonic==1.5
 msgpack-python==0.5.6
-nbconvert==5.5.0
+nbconvert==6.3.0
 nbformat==4.4.0
 neptune-client==0.3.3
 neptune-notebooks==0.0.8
